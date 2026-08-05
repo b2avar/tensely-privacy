@@ -181,6 +181,27 @@ Bu politikayla veya kişisel verilerinizle ilgili herhangi bir sorunuz için:
 **TenseMaster Academy**
 E-posta: **info@tensemasteracademy.com**
 
+---
+
+<a id="hesap-silme"></a>
+
+## 11. Hesabınızı ve Verilerinizi Silme
+
+Hesabınızı iki yoldan silebilirsiniz.
+
+**Uygulama içinden:** Tensely uygulamasında **Profil → Hesabımı sil** adımını izleyin. İki onay ekranından sonra hesabınız silinir.
+
+**E-posta ile:** Uygulamaya erişiminiz yoksa **info@tensemasteracademy.com** adresine, hesabınızın kayıtlı e-posta adresinden bir silme talebi gönderin. Talebinizi en geç **30 gün** içinde ücretsiz olarak sonuçlandırırız.
+
+Silme işlemiyle birlikte kaldırılan veriler:
+
+- Hesap bilgileriniz (e-posta adresi, ad, kullanıcı kimliği)
+- Öğrenme kayıtlarınız (tamamlanan dersler, ustalık puanları, seri, hata analizi)
+- Bildirim tercihleriniz ve push bildirim tokenınız
+- Abonelik geçmişiniz Tensely tarafında anonimleştirilir
+
+**Silinmeyenler:** Vergi Usul Kanunu m.253 uyarınca 5 yıl saklanması zorunlu olan fatura ve mali kayıtlar ile Apple/Google tarafında tutulan satın alma kayıtları. Aboneliğinizi iptal etmek için ayrıca App Store veya Google Play abonelik ayarlarını kullanmanız gerekir; hesabın silinmesi aboneliği kendiliğinden iptal etmez.
+
 
 ---
 
