@@ -3,6 +3,8 @@ layout: default
 title: Tensely Gizlilik Politikası
 ---
 
+[English](./en)
+
 # Tensely Gizlilik Politikası
 
 **Yürürlük tarihi:** 1 Ağustos 2026

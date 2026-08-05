@@ -3,6 +3,8 @@ layout: default
 title: Tensely Destek
 ---
 
+[English](./support)
+
 # Tensely Destek
 
 Sorunuz, sorununuz ya da öneriniz için bize yazın:
