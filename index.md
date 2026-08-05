@@ -41,8 +41,8 @@ Konuşma alıştırmalarında, söylediğiniz İngilizce cümlenin beklenen cüm
 eşleşip eşleşmediğini gösterebilmek için mikrofonu kullanırız.
 
 - Mikrofon **yalnızca** bir konuşma alıştırmasında kayıt düğmesine bastığınızda açılır; arka planda dinleme yapılmaz.
-- Sesiniz **cihazınızdan çıkmaz.** Konuşma, işletim sisteminin kendi konuşma tanıma servisiyle (iOS Speech, Android SpeechRecognizer) yazıya çevrilir.
-- **Ses kaydı saklanmaz.** Ne cihazda ne sunucularımızda tutulur; alıştırma bittiğinde metin de silinir.
+- Konuşma, **işletim sisteminin kendi konuşma tanıma servisiyle** (iOS Speech, Android SpeechRecognizer) yazıya çevrilir. Bu servisler tanımayı cihazda ya da Apple/Google sunucularında yapabilir; hangisinin kullanılacağına cihazınızın işletim sistemi karar verir. Bu işlem Apple ve Google'ın kendi gizlilik politikalarına tabidir.
+- **Ses Tensely'nin sunucularına hiçbir zaman ulaşmaz.** Kaydı ne alırız ne saklarız; alıştırma bittiğinde yazıya çevrilen metin de silinir.
 - Tensely'ye yalnızca alıştırmayı doğru yapıp yapmadığınız bilgisi ulaşır.
 - İzni reddedebilirsiniz; bu durumda konuşma alıştırmaları atlanır, dersin geri kalanı normal çalışır.
 
