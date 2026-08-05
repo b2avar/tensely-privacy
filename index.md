@@ -32,9 +32,9 @@ Bu politika Tensely mobil uygulamasında ("Uygulama") hangi kişisel verileriniz
 - Cihaz tipi ve modeli
 - İşletim sistemi sürümü
 - Uygulama sürümü
-- Anonim çökme (crash) raporları
-- Anonim performans metrikleri
 - Push bildirim tokenı (yalnızca izin verdiyseniz)
+
+Uygulamada çökme raporlama veya analitik aracı **bulunmuyor**. App Store ve Google Play, siz izin verdiyseniz kendi altyapıları üzerinden anonim çökme verisi toplayabilir; bu veri Apple ve Google'ın kendi politikalarına tabidir ve bize kimliğinizle ilişkilendirilmiş biçimde ulaşmaz.
 
 ### 1.4 Mikrofon ve konuşma tanıma
 Konuşma alıştırmalarında, söylediğiniz İngilizce cümlenin beklenen cümleyle
@@ -114,7 +114,6 @@ Verilerinizi **satmıyoruz** ve reklam veren üçüncü taraflarla paylaşmıyor
 - Öğrenme kayıtları: hesap aktif olduğu sürece
 - Hesap silme talebinden sonra: **en geç 30 gün** içinde tüm kişisel verileriniz silinir veya anonimleştirilir
 - Yasal yükümlülük gereği tutulması zorunlu veriler (fatura, vb.): mevzuatın öngördüğü süre boyunca saklanır (T.C. Vergi Usul Kanunu m.253 uyarınca 5 yıl)
-- Çökme ve hata logları: 90 gün
 
 ---
 
