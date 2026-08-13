@@ -75,6 +75,7 @@ seviyeyi seçin. İstediğiniz zaman değiştirebilirsiniz, ilerlemeniz silinmez
 ## Yasal
 
 - [Gizlilik Politikası](./)
+- [Kullanım Koşulları](./kullanim-kosullari)
 - [Hesap ve veri silme](./#hesap-silme)
 
 **TenseMaster Academy** — info@tensemasteracademy.com

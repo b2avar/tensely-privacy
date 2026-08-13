@@ -80,6 +80,7 @@ from the list. You can change it whenever you like; your progress is not erased.
 ## Legal
 
 - [Privacy Policy](./en)
+- [Terms of Use](./terms)
 - [Account and data deletion](./en#account-deletion)
 
 **TenseMaster Academy** — info@tensemasteracademy.com
